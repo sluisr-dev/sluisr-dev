@@ -1,4 +1,3 @@
-```markdown
 # 🌑 sluisr
 
 > *"The big secret to breaking the rules is to make it look as though you're following them."*
@@ -13,8 +12,8 @@
 
 ### 🌑 PSYCH_PROFILE
 `[REDACTED]`
-- Favorite: Monster (Anime) 👁️
-- Vibe: Johan Liebert
+- **Favorite:** Monster (Anime) 👁️
+- **Vibe:** Johan Liebert
 
 ---
 
@@ -22,3 +21,6 @@
   <img src="https://img.shields.io/badge/ARCH-LINUX-black?style=for-the-badge&logo=arch-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/HI--FI-AUDIO-black?style=for-the-badge" />
 </p>
+
+---
+`> silence is the loudest sound.`
