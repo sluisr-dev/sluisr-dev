@@ -1,12 +1,12 @@
-# 🌑 sluisr-dev
+# 🌑 sluisr
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Welcome+to+the+void...;There+is+nothing+special+about+being+born.;Stay+Arch.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=The+only+thing+humans+are+equal+in+is+death.;Stay+Arch.;System+Offline.)
 
 ```json
 {
-  "user": "sluisr",
-  "distro": "Arch Linux",
-  "audio": "IEMs_obsessed",
-  "music": "Hardcore_Jumpstyle",
-  "fuel": "Monster_Mango_Loco"
+  "subject": "sluisr",
+  "environment": "Arch Linux",
+  "status": "observing",
+  "audio_profile": "high_fidelity",
+  "interest": "experimental_tech"
 }
