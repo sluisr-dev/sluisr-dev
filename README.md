@@ -1,15 +1,13 @@
 <div align="center">
-  <!-- BANNER CREADO PARA TI -->
-  <img src="https://media.tenor.com/PZzEX4v1NPEAAAAC/johan-liebert-monster.gif" width="100%" height="220" style="object-fit:cover; border-radius: 8px; border: 1px solid #333;"/>
-
+  <img src="https://media.tenor.com/PZzEX4v1NPEAAAAC/johan-liebert-monster.gif" width="100%" height="220" style="object-fit:cover; border-radius: 8px; border: 1px solid #222;"/>
   <br><br>
 
-  <h2 style="color: #ffffff;">🌑 sluisr</h2>
-  <p><i>"The big secret to breaking the rules is to make it look as though you're following them."</i></p>
+  <h1 style="color: #ffffff; margin-bottom: 0;">🌑 sluisr</h1>
+  <p style="margin-top: 5px; color: #a0a0a0;"><i>"The big secret to breaking the rules is to make it look as though you're following them."</i></p>
 
   <br>
 
-  <!-- INSIGNIAS ROBUSTAS (Estas usan shield.io que tiene base en GitHub, nunca caen) -->
+  <!-- badges -->
   <p>
     <a href="https://sluisr.com"><img src="https://img.shields.io/badge/DOMINIO-sluisr.com-000000?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/OS-Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=white" />
@@ -20,51 +18,51 @@
 
 <br><br>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
+<!-- PANELES DE ESTILO DOSSIER -->
+<div align="center">
+<table width="85%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top" style="border: none;">
-      <h3 align="center">👁️ PSYCH_PROFILE</h3>
-      <!-- Tabla interna para el perfil sin usar SVGs problemáticos -->
-      <table align="center" style="border: none; background-color: transparent;">
-        <tr style="border: none;">
-          <td style="border: none;" align="right"><b>ID:</b></td>
-          <td style="border: none;"><code>sluisr-dev</code></td>
-        </tr>
-        <tr style="border: none;">
-          <td style="border: none;" align="right"><b>Status:</b></td>
-          <td style="border: none;"><code>[REDACTED]</code></td>
-        </tr>
-        <tr style="border: none;">
-          <td style="border: none;" align="right"><b>Vibe:</b></td>
-          <td style="border: none;">Johan Liebert</td>
-        </tr>
-        <tr style="border: none;">
-          <td style="border: none;" align="right"><b>Hobby:</b></td>
-          <td style="border: none;">Pensar y Deconstruir</td>
-        </tr>
-        <tr style="border: none;">
-          <td style="border: none;" align="right"><b>Favorite:</b></td>
-          <td style="border: none;">Monster 📖</td>
-        </tr>
-      </table>
+    <td width="50%" align="center" valign="top" style="border: 1px solid #333; padding: 20px; border-radius: 6px; background-color: #0d1117;">
+      
+      <h3 align="center" style="margin-top: 0;">👁️ PSYCH_PROFILE</h3>
+      <p align="center" style="color: #8b949e; font-size: 13px;"><i>"There is nothing special about being born."</i></p>
+      
       <br>
-      <div align="center">
-        <i>"There is nothing special about being born."</i><br>
-        — <b>J.L.</b>
+
+      <div align="left" style="font-family: monospace; display: inline-block;">
+        <span style="color: #7ee787;">[+]</span> <b>ID:</b> sluisr-dev<br>
+        <span style="color: #7ee787;">[+]</span> <b>STATUS:</b> <span style="background: #222; padding: 0 4px;">[REDACTED]</span><br>
+        <span style="color: #7ee787;">[+]</span> <b>VIBE:</b> Johan Liebert<br>
+        <span style="color: #7ee787;">[+]</span> <b>HOBBY:</b> Deconstruir ideas<br>
+        <span style="color: #7ee787;">[+]</span> <b>FAVORITE:</b> Monster 📖
       </div>
+
     </td>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <h3>💻 SYSTEM_LOGS</h3>
-      <!-- Reemplazo de las estadísticas inestables de Vercel por un GIF Hacker Aesthetic residente permanente -->
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="90%" style="border-radius: 8px; opacity: 0.8;"/>
-      <br><br>
-      <p align="center"><i>Construyo sistemas en silencio.<br>El ruido es para quienes no tienen nada que decir.</i></p>
+    
+    <td width="2%" style="border: none;"></td> <!-- Espacio / Margen -->
+
+    <td width="48%" align="center" valign="top" style="border: 1px solid #333; padding: 20px; border-radius: 6px; background-color: #0d1117;">
+      
+      <h3 align="center" style="margin-top: 0;">💻 SYSTEM_INFO</h3>
+      <p align="center" style="color: #8b949e; font-size: 13px;"><i>Most of the universe is just death, nothing more.</i></p>
+      
+      <br>
+
+      <div align="left" style="font-family: monospace; display: inline-block;">
+        <span style="color: #ff7b72;">>_</span> <b>OS_CORE:</b> Arch User<br>
+        <span style="color: #ff7b72;">>_</span> <b>MINDSET:</b> Analytical<br>
+        <span style="color: #ff7b72;">>_</span> <b>NOISE:</b> Silenced<br><br>
+        <span style="color: #a5d6ff;"># Constuyendo desde las sobras,</span><br>
+        <span style="color: #a5d6ff;"># descifrando el comportamiento.</span>
+      </div>
+
     </td>
   </tr>
 </table>
+</div>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
-  <code>> silence is the loudest sound.</code>
+  <p style="font-family: monospace; color: #555;"><i>> silence is the loudest sound.</i></p>
 </div>
