@@ -1,27 +1,24 @@
+```markdown
 # 🌑 sluisr
 
-> "The only thing humans are equal in is death."
+> *"The big secret to breaking the rules is to make it look as though you're following them."*
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=ARCH+LINUX+USER;JOHAN+LIEBERT+VIBES;110+WPM+TYPIST;HI-FI+AUDIO+ENTHUSIAST" />
+### 📁 SUBJECT_INFO
+- **IDENTIFIER:** sluisr-dev
+- **ENVIRONMENT:** Arch Linux 🐧
+- **PERFORMANCE:** 110 WPM ⌨️
+- **OUTPUT:** High-Fidelity Audio 🎧
+
+---
+
+### 🌑 PSYCH_PROFILE
+`[REDACTED]`
+- Favorite: Monster (Anime) 👁️
+- Vibe: Johan Liebert
+
+---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ARCH-LINUX-black?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/HI--FI-AUDIO-black?style=for-the-badge" />
 </p>
-
----
-
-### 💻 System Configuration
-| **Property** | **Value** |
-| :--- | :--- |
-| **OS** | Arch Linux 🐧 |
-| **Typing** | 110 WPM ⌨️ |
-| **Audio** | Hi-Fi / IEMs 🎧 |
-| **Entity** | Monster (Anime) 👁️ |
-
----
-
-### 🛠️ Core Stack
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
----
-`> stay arch.`
