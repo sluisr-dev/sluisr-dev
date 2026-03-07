@@ -3,9 +3,12 @@
   <br><br>
 
   <h1 style="color: #ffffff; margin-bottom: 0;">🌑 sluisr</h1>
-  <p style="margin-top: 5px; color: #a0a0a0;"><i>"The big secret to breaking the rules is to make it look as though you're following them."</i></p>
-
   <br>
+  <!-- Texto animado rojo simulando máquina de escribir -->
+  <a href="https://sluisr.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&pause=1500&color=FF0000&center=true&vCenter=true&width=600&lines=The+big+secret+to+breaking+the+rules...;is+to+make+it+look+as+though...;you're+following+them.;There+is+nothing+special+about+being+born.;Most+of+the+universe+is+just+death." alt="Typing Quote" />
+  </a>
+  <br><br>
 
   <p>
     <a href="https://sluisr.com"><img src="https://img.shields.io/badge/DOMINIO-sluisr.com-000000?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
@@ -18,7 +21,6 @@
 <br>
 
 ### 👁️ PSYCH_PROFILE
-> *"There is nothing special about being born."*
 
 ```text
 [+] ID:       sluisr-dev
@@ -27,25 +29,3 @@
 [+] HOBBY:    Deconstruir ideas
 [+] FAVORITE: Monster 📖
 ```
-
----
-
-### 💻 SYSTEM_INFO
-> *"Most of the universe is just death, nothing more."*
-
-```bash
->_ OS_CORE: Arch User
->_ MINDSET: Analytical
->_ NOISE:   Silenced
-
-# Construyendo desde las sombras...
-# descifrando comportamientos.
-```
-
----
-
-<br>
-
-<div align="center">
-  <p style="color: #555;"><code>> silence is the loudest sound.</code></p>
-</div>
