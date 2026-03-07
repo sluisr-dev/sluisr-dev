@@ -1,11 +1,12 @@
-# 🌌 sluisr-dev
+# 🌑 sluisr-dev
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&width=435&lines=Kernel+Enthusiast;Cyber-Security+Tinkering;Arch+Linux+User+BTW)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Welcome+to+the+void...;There+is+nothing+special+about+being+born.;Stay+Arch.)
 
 ```json
 {
-  "status": "active",
-  "capabilities": ["kernel_patching", "network_security", "high_speed_typing"],
-  "typing_speed": "110_wpm",
-  "fuel": "monster_mango_loco"
+  "user": "sluisr",
+  "distro": "Arch Linux",
+  "audio": "IEMs_obsessed",
+  "music": "Hardcore_Jumpstyle",
+  "fuel": "Monster_Mango_Loco"
 }
