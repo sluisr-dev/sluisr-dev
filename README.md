@@ -1,33 +1,31 @@
-<div align="center">
+```text
+[    0.000000] sluisr kernel: [SLUISR-CORE] Booting system...
+[    0.012345] sluisr kernel: CPU: Security Researcher / Low-Level Developer
+[    0.045678] sluisr kernel: OS: Arch Linux x86_64
+[    0.100122] sluisr kernel: Mount-cache hash table entries: 131072
+[    0.150244] sluisr kernel: [STACK] Loaded: C, Python, Assembly, Bash
+[    0.190333] sluisr kernel: [TOOLS] Loaded: Git, GDB, Docker, Neovim
+```
 
-# LUIS SOZA | SECURITY_RESEARCHER
-`TARGET: x86_64-linux-gnu` • `KERNEL_MODS` • `FIRMWARE_RE`
+### `>> /bin/operations`
 
----
+*   **[terminal-visualizations](https://github.com/sluisr-dev/terminal-visualizations)**
+    `[ OK ]` High-performance 3D & audio engines rendered directly in the TTY.
+*   **[lenovo-p400-bios](https://github.com/sluisr-dev/lenovo-p400-bios)**
+    `[ OK ]` Custom UEFI/BIOS firmware mods & power tuning.
+*   **[horus-tools](https://github.com/sluisr-dev/horus-tools)**
+    `[ OK ]` Forensic utilities and system analysis tools.
 
-<img src="https://metrics.lecoq.io/sluisr-dev?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config_theme=dark&config_timezone=America%2FMexico_City&plugin_languages=1&plugin_languages_details=percentage&plugin_languages_ignored=html%2C%20css&plugin_lines=1&plugin_habits=1&plugin_habits_from=200&plugin_habits_facts=1&plugin_habits_charts=0" width="100%" alt="System Metrics" />
+### `>> /etc/contact`
 
----
+```text
+root@sluisr:~# cat /etc/contact
+DOMAIN: sluisr.com
+EMAIL:  contact@sluisr.com
+```
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>// ACTIVE_OPERATIONS</h3>
-      <p><b>[terminal-visualizations]</b><br/>High-performance 3D & audio engines for the TTY.</p>
-      <p><b>[lenovo-p400-bios]</b><br/>Custom UEFI/BIOS firmware mods & power tuning.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>// TECHNICAL_STACK</h3>
-      <p><code>C</code> <code>Python</code> <code>Bash</code> <code>Assembly</code></p>
-      <p><code>Arch Linux</code> <code>GDB</code> <code>Docker</code> <code>Cloudflare</code></p>
-    </td>
-  </tr>
-</table>
+<br>
 
----
-
-[sluisr.com](https://sluisr.com) / [contact@sluisr.com](mailto:contact@sluisr.com)
-
-<sub><i>"Most of the universe is just death."</i></sub>
-
-</div>
+<p align="right">
+  <sub><i>"Most of the universe is just death."</i></sub>
+</p>
