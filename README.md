@@ -1,11 +1,10 @@
 <div align="center">
 
 # 🌑 sluisr
-**Low-Level Developer | Security Researcher | Arch Linux Enthusiast**
 
-`C` • `Python` • `Assembly` • `Go`
+`C` • `Python` • `Bash` • `Arch Linux` • `Git` • `Docker`
 
-[sluisr.com](https://sluisr.com) • [LinkedIn](https://linkedin.com/in/sluisr) • [Email](mailto:dev@sluisr.com)
+[sluisr.com](https://sluisr.com) • [contact@sluisr.com](mailto:contact@sluisr.com)
 
 ---
 
@@ -18,27 +17,19 @@
 
 </div>
 
-### 📂 Current Operations
+### 📂 Operations
 
 *   **[terminal-visualizations](https://github.com/sluisr-dev/terminal-visualizations)**
-    > High-performance 3D simulations and audio visualizers rendered directly in the TTY.
+    > 3D simulations and audio visualizers rendered in the TTY.
 *   **[lenovo-p400-bios](https://github.com/sluisr-dev/lenovo-p400-bios)**
-    > Custom UEFI/BIOS firmware: Hardware whitelist removal and power delivery optimization.
-*   **[horus-tools](https://github.com/sluisr-dev/horus-tools)**
-    > Forensic utilities and system analysis tools for Unix-like environments.
-
-### 🛠️ Technical Arsenal
-
-- **Systems:** Kernel optimization, BIOS/UEFI modding, System hardening.
-- **Environments:** Arch Linux (Daily driver), Bare Metal, POSIX-compliant systems.
-- **Interests:** Audio engine development, TUI design, Cryptography.
+    > Custom UEFI/BIOS firmware for Lenovo P400 Touch.
 
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,py,bash,go,arch,linux,git,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,py,bash,arch,linux,git,docker&theme=dark" />
 </div>
 
 <p align="right">
-  <sub><i>"The big secret to breaking the rules is to make it look as though you're following them."</i></sub>
+  <sub><i>"Most of the universe is just death."</i></sub>
 </p>
