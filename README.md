@@ -1,40 +1,45 @@
-# 🌑 [SLUISR] - ACCESSING_...
+<div align="center">
 
-> **ARCH_LINUX_USER** | **LOW_LEVEL_DEV** | **SECURITY_RESEARCH**
+# sluisr
+**Security Researcher & Systems Engineer**
 
----
-
-### // SYSTEM_SPECS
-```bash
-$ neofetch --profile
-OS:      Arch Linux x86_64
-KERNEL:  Hardened / Zen
-SHELL:   Bash / Zsh
-LANGS:   C, Python, Bash
-ENGINE:  TUI / Bare Metal
-CONTACT: contact@sluisr.com
-SITE:    sluisr.com
-```
+[sluisr.com](https://sluisr.com) / [contact@sluisr.com](mailto:contact@sluisr.com)
 
 ---
 
-### // ACTIVE_OPERATIONS
-- **[terminal-visualizations](https://github.com/sluisr-dev/terminal-visualizations)**
-  `Status: Online` - 3D/Audio engines for the TTY.
-- **[lenovo-p400-bios](https://github.com/sluisr-dev/lenovo-p400-bios)**
-  `Status: Legacy` - Custom UEFI/BIOS firmware mods.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="300" valign="top">
+        <h3>Selected Work</h3>
+        <p>
+          <b><a href="https://github.com/sluisr-dev/terminal-visualizations">terminal-visualizations</a></b><br/>
+          3D & Audio engines for the TTY.
+        </p>
+        <p>
+          <b><a href="https://github.com/sluisr-dev/lenovo-p400-bios">lenovo-p400-bios</a></b><br/>
+          Custom UEFI/BIOS firmware modifications.
+        </p>
+      </td>
+      <td width="300" valign="top">
+        <h3>Core Stack</h3>
+        <p><code>C</code> <code>Python</code> <code>Bash</code></p>
+        <p><code>Arch Linux</code> <code>Git</code> <code>Docker</code></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### // ANALYTICS
-[![Stats](https://github-readme-stats.vercel.app/api?username=sluisr-dev&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=777777&icon_color=ffffff)](https://github.com/sluisr-dev)
+<img src="https://github-readme-stats.vercel.app/api?username=sluisr-dev&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=00000000&show_icons=true" width="450" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sluisr-dev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=00000000" width="300" />
 
 ---
 
-### // HARDWARE_INTERFACES
-`C` • `PY` • `BASH` • `GIT` • `DOCKER` • `ARCH`
-
----
-<p align="right">
 <sub><i>"Most of the universe is just death."</i></sub>
-</p>
+
+</div>
