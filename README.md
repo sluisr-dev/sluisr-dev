@@ -1,36 +1,33 @@
-# Luis Soza
+<div align="center">
 
-> **Security Researcher | Low-Level Developer**
-
-Independent researcher focused on kernel-space modifications, UEFI/BIOS firmware reverse engineering, and high-performance terminal systems.
-
----
-
-### Operations
-
-*   **[terminal-visualizations](https://github.com/sluisr-dev/terminal-visualizations)**
-    High-performance 3D engines and real-time audio visualizers rendered in the TTY.
-*   **[lenovo-p400-bios](https://github.com/sluisr-dev/lenovo-p400-bios)**
-    Custom UEFI/BIOS firmware for Lenovo IdeaPad P400 Touch. Hardware whitelist removal and power delivery optimization.
-*   **[horus-tools](https://github.com/sluisr-dev/horus-tools)**
-    Forensic utilities and system analysis tools for Unix-like environments.
+# LUIS SOZA | SECURITY_RESEARCHER
+`TARGET: x86_64-linux-gnu` • `KERNEL_MODS` • `FIRMWARE_RE`
 
 ---
 
-### Technical Stack
-
-- **Languages:** C, Python, Bash
-- **Environments:** Arch Linux (Daily driver), Bare Metal, POSIX systems
-- **Tools:** Git, Docker, GDB, Neovim
+<img src="https://metrics.lecoq.io/sluisr-dev?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config_theme=dark&config_timezone=America%2FMexico_City&plugin_languages=1&plugin_languages_details=percentage&plugin_languages_ignored=html%2C%20css&plugin_lines=1&plugin_habits=1&plugin_habits_from=200&plugin_habits_facts=1&plugin_habits_charts=0" width="100%" alt="System Metrics" />
 
 ---
 
-### Connectivity
-
-- **Web:** [sluisr.com](https://sluisr.com)
-- **Mail:** [contact@sluisr.com](mailto:contact@sluisr.com)
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>// ACTIVE_OPERATIONS</h3>
+      <p><b>[terminal-visualizations]</b><br/>High-performance 3D & audio engines for the TTY.</p>
+      <p><b>[lenovo-p400-bios]</b><br/>Custom UEFI/BIOS firmware mods & power tuning.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>// TECHNICAL_STACK</h3>
+      <p><code>C</code> <code>Python</code> <code>Bash</code> <code>Assembly</code></p>
+      <p><code>Arch Linux</code> <code>GDB</code> <code>Docker</code> <code>Cloudflare</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
-<p align="right">
-  <sub><i>"The big secret to breaking the rules is to make it look as though you're following them."</i></sub>
-</p>
+
+[sluisr.com](https://sluisr.com) / [contact@sluisr.com](mailto:contact@sluisr.com)
+
+<sub><i>"Most of the universe is just death."</i></sub>
+
+</div>
