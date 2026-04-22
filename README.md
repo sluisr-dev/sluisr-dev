@@ -1,53 +1,52 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=sluisr&fontSize=90&animation=fadeIn&fontColor=ffffff" />
-</p>
-
 <div align="center">
 
-### ⚡ Systems Engineer | Security Researcher | Arch Linux Enthusiast
-
-`C` • `Python` • `Bash` • `Arch Linux` • `Git` • `Docker`
-
-[sluisr.com](https://sluisr.com) / [contact@sluisr.com](mailto:contact@sluisr.com)
-
----
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sluisr-dev&theme=dracula&no-bg=true&no-frame=true&column=7)](https://github.com/sluisr-dev)
+# sluisr
+`Security Researcher` • `Systems Engineer` • `Arch Linux`
 
 ---
 
 <table border="0">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=sluisr-dev&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&bg_color=00000000" height="170" />
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=sluisr-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=9f9f9f&icon_color=00d4ff" width="100%" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sluisr-dev&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=9f9f9f&bg_color=00000000" height="170" />
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sluisr-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ff007c&text_color=9f9f9f" width="100%" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sluisr-dev&theme=transparent&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideLabels=9f9f9f&dates=9f9f9f" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sluisr-dev&theme=tokyonight&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff007c&currStreakNum=ffffff&sideLabels=9f9f9f&dates=9f9f9f" width="100%" />
 
 ---
-
-</div>
 
 ### 📂 Current Operations
 
-*   **[terminal-visualizations](https://github.com/sluisr-dev/terminal-visualizations)**
-    > High-performance 3D simulations and audio visualizers rendered directly in the TTY.
-*   **[lenovo-p400-bios](https://github.com/sluisr-dev/lenovo-p400-bios)**
-    > Custom UEFI/BIOS firmware: Hardware whitelist removal and power delivery optimization.
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sluisr-dev/terminal-visualizations">terminal-visualizations</a></h4>
+      <p>3D & Audio engines for the TTY.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/sluisr-dev/lenovo-p400-bios">lenovo-p400-bios</a></h4>
+      <p>Custom UEFI/BIOS firmware mods.</p>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Technical Arsenal
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,py,bash,arch,linux,git,docker,neovim,vscode,cloudflare&theme=dark" />
+### 🛠️ Technical Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,py,bash,arch,linux,git,docker,cloudflare&theme=dark" />
 </p>
 
 ---
 
-<p align="right">
-  <sub><i>"The big secret to breaking the rules is to make it look as though you're following them."</i></sub>
-</p>
+[sluisr.com](https://sluisr.com) / [contact@sluisr.com](mailto:contact@sluisr.com)
+
+<sub><i>"Most of the universe is just death."</i></sub>
+
+</div>
