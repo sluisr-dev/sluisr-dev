@@ -1,40 +1,36 @@
-# [ SLUISR ] - SYSTEMS_INFRASTRUCTURE
+# Luis Soza
 
-```c
-/**
- * @file sluisr.h
- * @brief Systems Engineer & Security Researcher
- * 
- * Target: x86_64-linux-gnu
- * Stack:  C, Python, Bash, Arch Linux, Docker, Cloudflare
- */
-```
+> **Security Researcher | Low-Level Developer**
+
+Independent researcher focused on kernel-space modifications, UEFI/BIOS firmware reverse engineering, and high-performance terminal systems.
 
 ---
 
-### // CORE_OPERATIONS
+### Operations
 
-| PROJECT | DESCRIPTION | INTERFACE |
-| :--- | :--- | :--- |
-| **[terminal-visualizations]** | High-performance TTY 3D/Audio engines. | `C` / `Math` |
-| **[lenovo-p400-bios]** | UEFI/BIOS firmware whitelist & power mods. | `Assembly` / `C` |
-
----
-
-### // SYSTEM_ANALYTICS
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sluisr-dev&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=777777&icon_color=ffffff&show_icons=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sluisr-dev&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=777777" height="150" />
-</p>
+*   **[terminal-visualizations](https://github.com/sluisr-dev/terminal-visualizations)**
+    High-performance 3D engines and real-time audio visualizers rendered in the TTY.
+*   **[lenovo-p400-bios](https://github.com/sluisr-dev/lenovo-p400-bios)**
+    Custom UEFI/BIOS firmware for Lenovo IdeaPad P400 Touch. Hardware whitelist removal and power delivery optimization.
+*   **[horus-tools](https://github.com/sluisr-dev/horus-tools)**
+    Forensic utilities and system analysis tools for Unix-like environments.
 
 ---
 
-### // TECHNICAL_RESOURCES
-`contact@sluisr.com` • `sluisr.com` • `GPG: [REDACTED]`
+### Technical Stack
+
+- **Languages:** C, Python, Bash
+- **Environments:** Arch Linux (Daily driver), Bare Metal, POSIX systems
+- **Tools:** Git, Docker, GDB, Neovim
 
 ---
 
+### Connectivity
+
+- **Web:** [sluisr.com](https://sluisr.com)
+- **Mail:** [contact@sluisr.com](mailto:contact@sluisr.com)
+
+---
 <p align="right">
   <sub><i>"The big secret to breaking the rules is to make it look as though you're following them."</i></sub>
 </p>
