@@ -25,19 +25,19 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/sluisr-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=sluisr-dev&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <a href="https://github.com/sluisr">
+    <img src="https://github-readme-stats.vercel.app/api?username=sluisr&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/sluisr-dev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sluisr-dev&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <a href="https://github.com/sluisr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sluisr&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
   </a>
 </p>
 
 ### 🚀 Top Projects
 
-*   **[terminal-visualizations](https://github.com/sluisr-dev/terminal-visualizations)** 
+*   **[terminal-visualizations](https://github.com/sluisr/terminal-visualizations)** 
     > 3D simulations and real-time audio visualizers rendered directly in the TTY.
-*   **[lenovo-p400-bios](https://github.com/sluisr-dev/lenovo-p400-bios)** 
+*   **[lenovo-p400-bios](https://github.com/sluisr/lenovo-p400-bios)** 
     > Custom BIOS/UEFI firmware for Lenovo IdeaPad P400 Touch (Hardware whitelist removal & optimization).
 
 ---
